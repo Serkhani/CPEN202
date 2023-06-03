@@ -9,5 +9,5 @@ end xnor_gate;
 
 architecture xnorArch of xnor_gate is
  begin
-    Y <= A xnor B;
+    Y <= (A and B) or (not A and not B)
 end xnorArch;
