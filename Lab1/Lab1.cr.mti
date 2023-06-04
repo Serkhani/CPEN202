@@ -1,0 +1,25 @@
+{C:/Users/USER/Desktop/Computer Systems Design/Lab1/nandgate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/USER/Desktop/Computer Systems Design/Lab1/nandgate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture nandArch of nand_gate
+
+} {} {}} {C:/Users/USER/Desktop/Computer Systems Design/Lab1/norgate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/USER/Desktop/Computer Systems Design/Lab1/norgate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture norArch of nor_gate
+
+} {} {}} {C:/Users/USER/Desktop/Computer Systems Design/Lab1/xnorgate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/USER/Desktop/Computer Systems Design/Lab1/xnorgate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate
+-- Compiling architecture xnorArch of xnor_gate
+
+} {} {}}
