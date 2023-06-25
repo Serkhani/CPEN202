@@ -1,0 +1,9 @@
+{C:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity four_bit_adder
+-- Compiling architecture arch of four_bit_adder
+
+} {} {}}

@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1686517771
+VnNVaSDX^=07:@;eUagV::2
+04 14 4 work four_bit_adder arch 1
+=1-28d24432da5b-6486380b-162-1a78
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Efour_bit_adder
+Z0 w1686517747
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2
+Z4 8C:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd
+Z5 FC:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd
+l0
+L5
+V0Fi75U0LaJ7=C8LFeR2dd2
+!s100 G29^gPNagB<GDW^^F01ec3
+Z6 OL;C;10.6d;65
+32
+Z7 !s110 1686517751
+!i10b 1
+Z8 !s108 1686517751.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd|
+Z10 !s107 C:/Users/USER/Desktop/Computer Systems Design/10969344_Dakey_Lab2/4bit_adder.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 14 four_bit_adder 0 22 0Fi75U0LaJ7=C8LFeR2dd2
+l23
+L14
+Vf]cRDbIYKj5a;E[52jc3C1
+!s100 0PaX_bLd1V^:dA^J0;bPL2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
